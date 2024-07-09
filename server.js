@@ -6,7 +6,6 @@ const cors = require('cors');
 // const jwt = require('json-web-token');
 // const db = require('./database'); // Importer la configuration de la base de données
 // const firebaseAdmin = require('./firebase'); // Importer la configuration Firebase
-
 const app = express();
 const port = 8000;
 
